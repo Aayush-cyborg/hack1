@@ -12,8 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("Aayush kulkarni!, Computer Engineering\n");
-  printf("My first lab!!!, Having funn\n");
-  printf("school of computing is great\n");
+  printf("It's my first HACK-1 soo excitedd\n");
 
   return 0;
 }
