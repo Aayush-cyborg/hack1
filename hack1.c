@@ -1,9 +1,8 @@
 /**
  * Aayush kulkarni
  * akulkarni3@huskers.unl.edu
- * Date: 2022/08/23
  *
- * A simple hello world program in C
+ * A simple hack 1 program in C
  *
  */
 #include <stdlib.h>
